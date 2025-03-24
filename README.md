@@ -4,7 +4,6 @@
  <br>
  hello,  𝚢𝚘𝚞 
 <br>
-![](https://komarev.com/ghpvc/?username=wizlust&color=grey&style=flat-square&label=visitors)
 
 <p align="center"
 <br>
