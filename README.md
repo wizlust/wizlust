@@ -1,10 +1,13 @@
 <p align="center"
-  
- hello,  𝚢𝚘𝚞 
 
+  <p align="center"
+ <br>
+ hello,  𝚢𝚘𝚞 
 
 
 
 <p align="center"
 <br>
-wip :P
+im wiz (@wizlust) he/him
+<br>
+im a nerd 8)
