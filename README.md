@@ -9,4 +9,4 @@
 <br>
 im wiz (@wizlust) he/him
 <br>
-im a nerd 8)
+i do nooot know what to put here but im a nerd 8)
